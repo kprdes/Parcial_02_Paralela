@@ -1,0 +1,252 @@
+===============================
+Estado inicial: ABCDEFG#IJKHMNOL
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 0.0011986
+===============================
+===============================
+Estado inicial: ABCDEFGHIJ#LMNKO
+Costo (pasos): 2
+Nodos expandidos: 5
+Tiempo (s): 0.000190215
+===============================
+===============================
+Estado inicial: ABCDEFGHIJKLM#NO
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 0.000108809
+===============================
+===============================
+Estado inicial: ABCDEFG#IJKHMNOL
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 5.1504e-05
+===============================
+===============================
+Estado inicial: ABCDEFGHIJ#KMNOL
+Costo (pasos): 2
+Nodos expandidos: 5
+Tiempo (s): 6.0105e-05
+===============================
+===============================
+Estado inicial: ABCDEFGHIJKLM#NO
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 4.4703e-05
+===============================
+===============================
+Estado inicial: ABCDEFGHIJ#LMNKO
+Costo (pasos): 2
+Nodos expandidos: 5
+Tiempo (s): 5.6005e-05
+===============================
+===============================
+Estado inicial: ABCDEFGHIJKLM#NO
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 7.6506e-05
+===============================
+===============================
+Estado inicial: ABCDEFG#IJKHMNOL
+Costo (pasos): 2
+Nodos expandidos: 4
+Tiempo (s): 3.9504e-05
+===============================
+===============================
+Estado inicial: ABCDEFGHIJ#KMNOL
+Costo (pasos): 2
+Nodos expandidos: 5
+Tiempo (s): 4.6004e-05
+===============================
+===============================
+Estado inicial: AB#CEFGDIJKHMNOL
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000208017
+===============================
+===============================
+Estado inicial: AB#CEFGDIJKHMNOL
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000269821
+===============================
+===============================
+Estado inicial: AB#DEFCGIJKHMNOL
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000180814
+===============================
+===============================
+Estado inicial: ABCDEFGHINJLM#KO
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000170814
+===============================
+===============================
+Estado inicial: ABCDEFGHIJLOMNK#
+Costo (pasos): 4
+Nodos expandidos: 17
+Tiempo (s): 0.000109609
+===============================
+===============================
+Estado inicial: ABCDEFGHIJOKMNL#
+Costo (pasos): 4
+Nodos expandidos: 17
+Tiempo (s): 0.000131711
+===============================
+===============================
+Estado inicial: ABCDE#GHIFKLMJNO
+Costo (pasos): 4
+Nodos expandidos: 35
+Tiempo (s): 0.000157813
+===============================
+===============================
+Estado inicial: AB#DEFCGIJKHMNOL
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000207417
+===============================
+===============================
+Estado inicial: ABCDEFGH#JKLIMNO
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000140911
+===============================
+===============================
+Estado inicial: ABCDEFGH#IKLMJNO
+Costo (pasos): 4
+Nodos expandidos: 24
+Tiempo (s): 0.000160612
+===============================
+===============================
+Estado inicial: #AGCEBFDIJKHMNOL
+Costo (pasos): 8
+Nodos expandidos: 414
+Tiempo (s): 0.00291093
+===============================
+===============================
+Estado inicial: AFBCE#HDIJGKMNOL
+Costo (pasos): 8
+Nodos expandidos: 699
+Tiempo (s): 0.00388931
+===============================
+===============================
+Estado inicial: EABCIFGD#JKHMNOL
+Costo (pasos): 8
+Nodos expandidos: 536
+Tiempo (s): 0.00218418
+===============================
+===============================
+Estado inicial: ABCDEFGH#MKLJINO
+Costo (pasos): 8
+Nodos expandidos: 536
+Tiempo (s): 0.00194306
+===============================
+===============================
+Estado inicial: ABCDEFL#IJHGMNKO
+Costo (pasos): 8
+Nodos expandidos: 536
+Tiempo (s): 0.00219318
+===============================
+===============================
+Estado inicial: ABCDE#GHMFJKNIOL
+Costo (pasos): 8
+Nodos expandidos: 699
+Tiempo (s): 0.00225638
+===============================
+===============================
+Estado inicial: ABCDFGKHEI#LMJNO
+Costo (pasos): 8
+Nodos expandidos: 699
+Tiempo (s): 0.00239379
+===============================
+===============================
+Estado inicial: ABCDEFGHMIJLNKO#
+Costo (pasos): 8
+Nodos expandidos: 414
+Tiempo (s): 0.00133311
+===============================
+===============================
+Estado inicial: EACDB#GHIFKLMJNO
+Costo (pasos): 8
+Nodos expandidos: 699
+Tiempo (s): 0.00203366
+===============================
+===============================
+Estado inicial: AFBCIEGD#JKHMNOL
+Costo (pasos): 8
+Nodos expandidos: 536
+Tiempo (s): 0.00174114
+===============================
+===============================
+Estado inicial: ABDHEFGCIJ#LMNKO
+Costo (pasos): 8
+Nodos expandidos: 699
+Tiempo (s): 0.00236439
+===============================
+===============================
+Estado inicial: FBDHAEC#IJGKMNOL
+Costo (pasos): 12
+Nodos expandidos: 9743
+Tiempo (s): 0.0421678
+===============================
+===============================
+Estado inicial: ABCDEGOHIJFLM#KN
+Costo (pasos): 14
+Nodos expandidos: 39204
+Tiempo (s): 0.154333
+===============================
+===============================
+Estado inicial: EC#DBAJHIGFLMNKO
+Costo (pasos): 14
+Nodos expandidos: 39204
+Tiempo (s): 0.142843
+===============================
+===============================
+Estado inicial: BGDHACF#ENJLIMKO
+Costo (pasos): 16
+Nodos expandidos: 153978
+Tiempo (s): 0.704593
+===============================
+===============================
+Estado inicial: BCGDAFJH#EKLINMO
+Costo (pasos): 16
+Nodos expandidos: 153978
+Tiempo (s): 0.827297
+===============================
+===============================
+Estado inicial: BCDHAFGOEJLKIMN#
+Costo (pasos): 16
+Nodos expandidos: 122707
+Tiempo (s): 0.673626
+===============================
+===============================
+Estado inicial: AFBGEJKC#NHDIMOL
+Costo (pasos): 16
+Nodos expandidos: 153978
+Tiempo (s): 0.627299
+===============================
+===============================
+Estado inicial: EB#CFJGDAIKHMNOL
+Costo (pasos): 16
+Nodos expandidos: 153978
+Tiempo (s): 0.63599
+===============================
+===============================
+Estado inicial: FCGDBAKH#EJLIMNO
+Costo (pasos): 16
+Nodos expandidos: 153978
+Tiempo (s): 0.612611
+===============================
+===============================
+Estado inicial: BGFCAJLDENKHI#MO
+Costo (pasos): 20
+Nodos expandidos: 2208109
+Tiempo (s): 13.8827
+===============================
+===============================
+Estado inicial: AFCGIEBD#NKHJMOL
+Costo (pasos): 22
+Nodos expandidos: 8025605
+Tiempo (s): 61.5021
+===============================
